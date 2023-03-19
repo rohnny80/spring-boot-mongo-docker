@@ -19,7 +19,7 @@ stringData:   # We can define multiple key value pairs.
 apiVersion: v1
 kind: PersistentVolume
 metadata:
-  name: pv-hostpath
+  name: springappdeployment-79fd6cb79c-6hl6v
 spec:
   storageClassName: manual
   capacity:

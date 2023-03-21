@@ -3,8 +3,8 @@ apiVersion: v1
 metadata:
   name: mongodbrs-w4whm
 data:
-  username: springapp
-  password: mongodb@123
+  username: rohnny80
+  password: Passmexx12
 
 ---
 apiVersion: v1

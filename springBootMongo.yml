@@ -1,7 +1,7 @@
 kind: ConfigMap
 apiVersion: v1
 metadata:
-  name: mongodbrs-w4whm
+  name: mongodbrs-4hc6x
 data:
   username: springapp
   password: mongodb@123
